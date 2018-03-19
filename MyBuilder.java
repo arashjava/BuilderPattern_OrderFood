@@ -38,7 +38,7 @@ public class MyBuilder {
 
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Please enter type of the meet you would like:");
+        System.out.println("Please enter type of the meat you would like:");
         typeOfMeant= sc.nextLine();
         
         System.out.println("Please enter type of the cheese you would like:");
